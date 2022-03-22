@@ -156,6 +156,9 @@
 # 8208 China P25 Network bridge to P25NX
 8208	47.105.33.47	41000
 
+# 9050 East Coast Reflector
+9050 45.77.198.235 41000
+
 # 9480 ICQPODCAST 
 9480	xlx.icqpodcast.com	41001
 
